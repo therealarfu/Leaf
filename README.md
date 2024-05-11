@@ -15,5 +15,5 @@ It's a programming language still in development
 
 **object** -> ``obj [variable] = {"Hello": "World"}``
 
-**Variant** -> ``[variable] = anything``
+**variant** -> ``[variable] = anything``
 
