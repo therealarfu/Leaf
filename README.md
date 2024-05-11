@@ -1,5 +1,7 @@
-# Leaf-Language
+# Leaf Language 
 It's a programming language still in development
+
+# Extension: .lf
 
 # Variables
 > ``[Type](Optional) + [Name] = [Content]``
