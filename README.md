@@ -39,3 +39,14 @@ else {
 }
 ```
 
+# For
+
+> ``for ([Variable] = [Start], [Variable] = [End], [Step]) { [Content] }``
+
+## Example
+```
+for (i = 0, i = 10, i ++) {
+  print(i)
+}
+```
+
