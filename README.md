@@ -8,15 +8,34 @@ It's a programming language still in development
 > ``[Type](Optional) + [Name] = [Content]``
 
 ## Types:
-**integer** -> ``int [variable] = 1``
+**integer** -> ``int [Variable] = 1``
 
-**float** -> ``float [variable] = 1.5``
+**float** -> ``float [Variable] = 1.5``
 
-**string** -> ``string [variable] = "Hello, World!"``
+**string** -> ``string [Variable] = "Hello, World!"``
 
-**list** -> ``list [variable] = [1,2,3,4]``
+**list** -> ``list [Variable] = [1,2,3,4]``
 
-**object** -> ``obj [variable] = {"Hello": "World"}``
+**object** -> ``obj [Variable] = {"Hello": "World"}``
 
-**variant** -> ``[variable] = anything``
+**variant** -> ``[Variable] = anything``
+
+# Conditionals
+> ``if ([Condition]) { [Content] } elseif ([Condtion]) { [Content] } else { [Content] }``
+
+## Example
+
+```
+int x = 10
+
+if (x < 10) {
+  print("Less than 10")
+}
+elseif (x == 10) {
+  print("Equal to 10")
+}
+else {
+  print("More than 10")
+}
+```
 
