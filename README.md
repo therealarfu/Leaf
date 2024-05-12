@@ -1,4 +1,5 @@
-![image](https://github.com/therealarfu/Leaf-Language/assets/112352728/d4d9ebd9-b34c-4773-8dd5-1ec4f98c2fb7)
+![image](https://github.com/therealarfu/Leaf/assets/112352728/a3bade6a-2fea-49c1-aa8c-a73098c11fb6)
+
 
 # Leaf
 Leaf is a programming language still in development
