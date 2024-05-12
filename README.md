@@ -1,13 +1,13 @@
 # Leaf Language 
 It's a programming language still in development
 
-### Extension: 
+## Extension: 
 > file.lf
 
-# Variables
+## Variables
 > ``[Type](Optional) [Name] = [Content]``
 
-## Types:
+### Types:
 **integer** -> ``int [Variable] = 1``
 
 **float** -> ``float [Variable] = 1.5``
@@ -20,10 +20,10 @@ It's a programming language still in development
 
 **variant** -> ``[Variable] = anything``
 
-# Conditionals
+## Conditionals
 > ``if ([Condition]) { [Content] } elseif ([Condtion]) { [Content] } else { [Content] }``
 
-## Example
+### Example
 
 ```
 int x = 10
@@ -39,21 +39,21 @@ else {
 }
 ```
 
-# For
+## For
 
 > ``for ([Variable] = [Start], [Variable] = [End], [Step]) { [Content] }``
 
-## Example
+### Example
 ```
 for (i = 0, i = 10, i ++) {
   print(i)
 }
 ```
 
-# While
+## While
 
 > ``while ([Condition]) { [Routine] }``
-## Example
+### Example
 ```
 int i = 0
 while (i < 10){
@@ -62,11 +62,11 @@ while (i < 10){
 }
 ```
 
-# Functions
+## Functions
 
 > ``[Type] [Name] ([Parameters]) {[Content]}``
 
-## Examples
+### Examples
 
 ```
 int sumTwo(int num1, int num2){
