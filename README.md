@@ -5,7 +5,7 @@ It's a programming language still in development
 > file.lf
 
 # Variables
-> ``[Type](Optional) + [Name] = [Content]``
+> ``[Type](Optional) [Name] = [Content]``
 
 ## Types:
 **integer** -> ``int [Variable] = 1``
@@ -59,5 +59,28 @@ int i = 0
 while (i < 10){
   print(i)
   i++
+}
+```
+
+# Functions
+
+> ``[Type] [Name] ([Parameters]) {[Content]}``
+
+## Examples
+
+```
+int sumTwo(int num1, int num2){
+  return num1 + num2
+}
+```
+
+```
+items = [1,2,3,4,5]
+result = 0
+
+void sumList(list arr, int sum){
+  for (i = 0, i = len(arr) - 1, i++){
+    sum += arr(i)
+  }
 }
 ```
