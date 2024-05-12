@@ -1,5 +1,7 @@
+![image](https://github.com/therealarfu/Leaf-Language/assets/112352728/d4d9ebd9-b34c-4773-8dd5-1ec4f98c2fb7)
+
 # Leaf Language 
-It's a programming language still in development
+Leaf is a programming language still in development
 
 ## Extension: 
 > file.lf
