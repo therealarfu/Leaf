@@ -50,3 +50,14 @@ for (i = 0, i = 10, i ++) {
 }
 ```
 
+# While
+
+> ``while ([Condition]) { [Routine] }``
+## Example
+```
+int i = 0
+while (i < 10){
+  print(i)
+  i++
+}
+```
